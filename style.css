@@ -1,0 +1,40 @@
+.columnCode{
+	border-radius: 5px;
+	width: 29%;
+	float: left;
+	background-color: #b3ffff;
+	margin: .5%
+}
+
+.columnBlend{
+	border-radius: 5px;
+	width: 39%;
+	float: left;
+	background-color: #ffe3b3;
+	margin: .5%
+}
+
+.columnThree{
+	border-radius: 5px;
+	width: 29%;
+	float: left;
+	background-color: #dfb3ff;
+	margin: .5%
+}
+
+.colHeader{
+	margin: 10px;
+	margin-left: 30px;
+	font-size: 25px
+}
+.colBody{
+	margin: 15px;
+	margin-left: 20px;
+	font-size: 16px
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}

@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "space-wiki-unity",
+"productName": "A Complete System",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
@@ -8,7 +8,7 @@
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
+"backgroundColor": "#0E0E0D",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,

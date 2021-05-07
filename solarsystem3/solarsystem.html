@@ -13,11 +13,13 @@
     </script>
   </head>
   <body>
-	<div style="margin: auto;">
-	<div style="width: 1280; text-align: center;">
-		<a href="on-line help.pdf" target="blank">On-line Help<br></a>
-		<iframe src="solarsystem.html" style="border:0px #000000 none;" name="Game name" scrolling="no" frameborder="1" marginheight="px" height="720px" width="1280px"></iframe>
-	</div>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 1280px; height: 720"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title">A Complete System</div>
+      </div>
 	</div>
   </body>
 </html>
